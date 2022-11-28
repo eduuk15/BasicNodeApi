@@ -1,1 +1,3 @@
 # BasicNodeApi
+
+API construída apenas com Node.js, a fim de praticar e construir uma API simples com inserção, listagem, remoção e edição de registros...
